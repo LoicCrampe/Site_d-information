@@ -1,0 +1,21 @@
+body,
+html {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.news_box {
+    border: solid black 1px;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+
+.new_box img {
+    width: 400px;
+    height: 400px;
+}
